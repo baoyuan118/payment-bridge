@@ -19,7 +19,7 @@ NONE
 ```
 [GET] /api/v1/public/status/:cid
 ```
-This staus of a deal cid
+This status of a data cid
 
 **Authentification required**
 
